@@ -2,9 +2,6 @@
 # Currency-Monitor.sh
 # Designed with tmux in mind, a currency tracker.  
 
-When you create the script please make sure to make the script executable. 
-chmod +x nameofscript.sh
-
 # SETUP NOTES
 # ─────────────────────────────────────────
 # Make the file executable chmod +x nameoffile.sh
